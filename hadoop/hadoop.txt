@@ -1,0 +1,15 @@
+1  Git
+2  Linux
+3  Zookeeper
+4  Hadoop
+5  Nginx
+6  Mycat
+7  Mongodb
+8  SpringMVC
+9  SpringBoot
+10 SpringCloud
+11 Docker
+12 Dubbo
+14 Maven
+15 分布式部署
+16 微服务
